@@ -1,0 +1,55 @@
+{
+  "top_positions": [
+    {
+      "position": [
+        1348272.4819580908,
+        5548203.35685838,
+        30
+      ],
+      "coverage_score": 0.8507069584546859,
+      "buildings_in_range": 105,
+      "street_distance": 2.7591101991091898
+    },
+    {
+      "position": [
+        1348218.4833690515,
+        5548037.927248536,
+        30
+      ],
+      "coverage_score": 0.8440370689524127,
+      "buildings_in_range": 100,
+      "street_distance": 2.8851305535622265
+    },
+    {
+      "position": [
+        1347786.4946567365,
+        5548258.500061662,
+        30
+      ],
+      "coverage_score": 0.8426532541465799,
+      "buildings_in_range": 49,
+      "street_distance": 3.1013948135534575
+    },
+    {
+      "position": [
+        1348056.4876019333,
+        5548534.21607807,
+        30
+      ],
+      "coverage_score": 0.8354021592970637,
+      "buildings_in_range": 66,
+      "street_distance": 2.3521216379106247
+    },
+    {
+      "position": [
+        1348650.4720813665,
+        5548258.500061662,
+        30
+      ],
+      "coverage_score": 0.8353647688214292,
+      "buildings_in_range": 57,
+      "street_distance": 1.7969893416450304
+    }
+  ],
+  "total_analyzed": 400
+}
